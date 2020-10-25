@@ -1,3 +1,1 @@
-constant add * (a,b) -> {
-    a + b
-}
+constant add * (a,b) -> a + b
